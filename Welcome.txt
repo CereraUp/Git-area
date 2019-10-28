@@ -1,1 +1,2 @@
 print_r("Welcome back home");
+print_r("Nice to see you");
