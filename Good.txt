@@ -1,2 +1,0 @@
-print_r("Nowdays");
-print_r("So wonderful world");
